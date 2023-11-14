@@ -1,1 +1,1 @@
-# PI_M6_Hospitales
+# PI_M6_Hospitalización
